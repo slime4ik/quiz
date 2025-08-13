@@ -1,0 +1,6 @@
+test_title,question_text,type,choices,answers
+Python Basics,Что такое Python?,SN,"Интерпретируемый;Компилируемый;Оба варианта","Интерпретируемый"
+Python Basics,Выберите правильные типы данных,ML,"int;float;list;function","int;float;list"
+Python Basics,Напишите ключевое слово для определения функции,SN,"def;func;function","def"
+Python Basics,Что делает функция print()?,SN,"Выводит текст;Считает сумму;Удаляет файл","Выводит текст"
+Python Basics,Выберите ключевые слова Python,ML,"if;var;while;function","if;while"
